@@ -14,7 +14,7 @@ To collect data, I used a web crawler to extract the comment data on different Y
 
 | | **Minnesota** | **Ohio State** |
 | ----- | ----- | -----|
-| **URL Source** | [](https://www.youtube.com/results?search_query=minnesota+dance) | [](https://www.youtube.com/results?search_query=ohio+state+dance)|
+| **URL Source** | [https://www.youtube.com/results?search_query=minnesota+dance](https://www.youtube.com/results?search_query=minnesota+dance) | [https://www.youtube.com/results?search_query=ohio+state+dance](https://www.youtube.com/results?search_query=ohio+state+dance)|
 | **Search Terms** | "minnesota", "university of minnesota", "minnesota dance", "minnesota jazz", "minnesota pom", "jazz", "pom" | "ohio state", "ohio state university", "ohio dance", "ohio state dance", "ohio jazz", "ohio state jazz", "ohio state pom", "ohio pom", "jazz", "pom"|
 
 
