@@ -29,6 +29,7 @@ Click to download:
 
 > <a href="assets/ohio-search.csv" download>ohio-search.csv</a>
 
+
 Header Key: 
 - **video_url**: url to the searched video
 - **user_url**: url of account that posted the video (this can be added on to the end of "youtube.com/" to find the account)
@@ -39,9 +40,14 @@ Header Key:
 - **shortdesc**: the description included in each under the YouTube video, written by the account that posted the video
 - **collected_at**: the time in which the data was collected
 
-### Visualization
+### Visualizations
+**Minnesota**
 <img src="img/m-word-cloud.png" alt="maroon and gold words in the shape of a chat bubble" width="500"/>
 
+**Ohio State**
 <img src="img/os-word-cloud.png" alt="red, grey, and black words in the shape of a chat bubble" width="500"/>
 
 ## Analysis
+When looking at the images, there are a good amount of similarities. There are lots of positive descriptors like "champion", "devine", and "talent". You'll also see a lot of first and last names, smaller in the background, though ohio state notably has more. In general I would say that Ohio State not only has more words, but has more large words, indicating them being used more often. This isn't too much of a surprise though as they have won 6 titles in the D1A Jazz category over the last 7 years, making them a very big name in collegiate dance. What did come as a surprise to me was how few times the word "pom" appeared. While the category is smaller and could be less enjoyable for some, I did anticipate that the accounts posting videos would include the word within their descriptions. One reason why this may not have been the case is that the D1A Jazz category has three round of competition, while D1A Pom only has two rounds, which means there is inherently less content containing the pom routines.
+
+I am happy with these results as a starting point, but if I were to do this again I would be interested to see the results of this process done on Instagram or TikTok instead of YouTube. I think that the different platforms are conducive to different types of content and, based on the results, it may be better to get information from a platform known for short-form content. I also think I would want to add in a few of the other top teams that compete in other divisions, that way I can paint a fuller picture of the discourse within the topic.
