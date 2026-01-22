@@ -42,9 +42,11 @@ Header Key:
 
 ### Visualizations
 **Minnesota**
+
 <img src="img/m-word-cloud.png" alt="maroon and gold words in the shape of a chat bubble" width="500"/>
 
 **Ohio State**
+
 <img src="img/os-word-cloud.png" alt="red, grey, and black words in the shape of a chat bubble" width="500"/>
 
 ## Analysis
